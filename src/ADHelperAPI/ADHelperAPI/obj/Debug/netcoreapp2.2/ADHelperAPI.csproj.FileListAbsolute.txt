@@ -1,0 +1,17 @@
+/Users/pbelardo/dev/careadvance/identity/ADHelperAPI/ADHelperAPI/obj/Debug/netcoreapp2.2/ADHelperAPI.csprojAssemblyReference.cache
+/Users/pbelardo/dev/careadvance/identity/ADHelperAPI/ADHelperAPI/obj/Debug/netcoreapp2.2/ADHelperAPI.csproj.CoreCompileInputs.cache
+/Users/pbelardo/dev/careadvance/identity/ADHelperAPI/ADHelperAPI/obj/Debug/netcoreapp2.2/ADHelperAPI.RazorAssemblyInfo.cache
+/Users/pbelardo/dev/careadvance/identity/ADHelperAPI/ADHelperAPI/obj/Debug/netcoreapp2.2/ADHelperAPI.RazorAssemblyInfo.cs
+/Users/pbelardo/dev/careadvance/identity/ADHelperAPI/ADHelperAPI/obj/Debug/netcoreapp2.2/ADHelperAPI.AssemblyInfoInputs.cache
+/Users/pbelardo/dev/careadvance/identity/ADHelperAPI/ADHelperAPI/obj/Debug/netcoreapp2.2/ADHelperAPI.AssemblyInfo.cs
+/Users/pbelardo/dev/careadvance/identity/ADHelperAPI/ADHelperAPI/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/pbelardo/dev/careadvance/identity/ADHelperAPI/ADHelperAPI/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/pbelardo/dev/careadvance/identity/ADHelperAPI/ADHelperAPI/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
+/Users/pbelardo/dev/careadvance/identity/ADHelperAPI/ADHelperAPI/bin/Debug/netcoreapp2.2/ADHelperAPI.deps.json
+/Users/pbelardo/dev/careadvance/identity/ADHelperAPI/ADHelperAPI/bin/Debug/netcoreapp2.2/ADHelperAPI.runtimeconfig.json
+/Users/pbelardo/dev/careadvance/identity/ADHelperAPI/ADHelperAPI/bin/Debug/netcoreapp2.2/ADHelperAPI.runtimeconfig.dev.json
+/Users/pbelardo/dev/careadvance/identity/ADHelperAPI/ADHelperAPI/bin/Debug/netcoreapp2.2/ADHelperAPI.dll
+/Users/pbelardo/dev/careadvance/identity/ADHelperAPI/ADHelperAPI/bin/Debug/netcoreapp2.2/ADHelperAPI.pdb
+/Users/pbelardo/dev/careadvance/identity/ADHelperAPI/ADHelperAPI/obj/Debug/netcoreapp2.2/ADHelperAPI.RazorTargetAssemblyInfo.cache
+/Users/pbelardo/dev/careadvance/identity/ADHelperAPI/ADHelperAPI/obj/Debug/netcoreapp2.2/ADHelperAPI.dll
+/Users/pbelardo/dev/careadvance/identity/ADHelperAPI/ADHelperAPI/obj/Debug/netcoreapp2.2/ADHelperAPI.pdb
